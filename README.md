@@ -1,7 +1,4 @@
 <div align="center">
-  <img width="35%" src="https://i.pinimg.com/564x/e6/6e/40/e66e40d33a091b54dac10dec0e7660cb.jpg"/>
-</div>
-<div align="center">
   <h3>💻Tech Stacks💻</h3>
 </div>
 <div align="center">
