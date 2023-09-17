@@ -2,6 +2,9 @@
   <img width="35%" src="https://i.pinimg.com/564x/e6/6e/40/e66e40d33a091b54dac10dec0e7660cb.jpg"/>
 </div>
 <div align="center">
+  <h3>💻Tech Stacks💻</h3>
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
