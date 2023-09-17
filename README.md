@@ -12,3 +12,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 </div>
+<div align="center">
+  <img width="80%" src="https://i.pinimg.com/564x/89/ff/f6/89fff6e8e0c33c9777a2183fcf161f59.jpg"/>
+</div>
