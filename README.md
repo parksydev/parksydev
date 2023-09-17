@@ -1,4 +1,6 @@
-<h3 align="center">💻 Tech Stacks</h3>
+<div align="center">
+  <img width="35%" src="https://i.pinimg.com/564x/e6/6e/40/e66e40d33a091b54dac10dec0e7660cb.jpg"/>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -11,7 +13,4 @@
   <img src="https://img.shields.io/badge/Node.Js-339933?style=flat-square&logo=Node.JS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-</div>
-<div align="center">
-  <img width="80%" src="https://i.pinimg.com/564x/89/ff/f6/89fff6e8e0c33c9777a2183fcf161f59.jpg"/>
 </div>
